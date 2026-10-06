@@ -1,5 +1,4 @@
 /* Motion patterns adapted from Animata and Animate UI.
- * See THIRD_PARTY_NOTICES.md for sources and retained license notices.
  * All scrolling uses the browser's native scroll position.
  */
 (() => {
