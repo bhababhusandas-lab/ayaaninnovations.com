@@ -1,3 +1,9 @@
+# Only the website itself is tracked; everything else in this folder stays local.
+/*
+!/.gitignore
+!/public_html/
+!/dev_server.py
+
 .DS_Store
 __pycache__/
 *.pyc
