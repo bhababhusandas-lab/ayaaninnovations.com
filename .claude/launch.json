@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ayaan-preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["dev_server.py"],
+      "port": 4173
+    }
+  ]
+}
